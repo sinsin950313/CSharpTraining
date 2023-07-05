@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\bin\Debug\A21_LogicalOperators.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\bin\Debug\A21_LogicalOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\bin\Debug\A21_LogicalOperators.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\obj\Debug\A21_LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\obj\Debug\A21_LogicalOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\obj\Debug\A21_LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\obj\Debug\A21_LogicalOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A21_LogicalOperators\obj\Debug\A21_LogicalOperators.pdb

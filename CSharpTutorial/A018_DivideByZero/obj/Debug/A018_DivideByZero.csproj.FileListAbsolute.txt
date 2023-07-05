@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\bin\Debug\A018_DivideByZero.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\bin\Debug\A018_DivideByZero.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\bin\Debug\A018_DivideByZero.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\obj\Debug\A018_DivideByZero.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\obj\Debug\A018_DivideByZero.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\obj\Debug\A018_DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\obj\Debug\A018_DivideByZero.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A018_DivideByZero\obj\Debug\A018_DivideByZero.pdb

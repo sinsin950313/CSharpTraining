@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\bin\Debug\A031_StringBuilder.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\bin\Debug\A031_StringBuilder.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\bin\Debug\A031_StringBuilder.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\obj\Debug\A031_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\obj\Debug\A031_StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\obj\Debug\A031_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\obj\Debug\A031_StringBuilder.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A031_StringBuilder\obj\Debug\A031_StringBuilder.pdb

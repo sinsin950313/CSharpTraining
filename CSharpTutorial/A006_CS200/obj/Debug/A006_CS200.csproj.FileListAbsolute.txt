@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\bin\Debug\A006_CS200.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\bin\Debug\A006_CS200.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\bin\Debug\A006_CS200.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\obj\Debug\A006_CS200.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\obj\Debug\A006_CS200.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\obj\Debug\A006_CS200.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\obj\Debug\A006_CS200.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A006_CS200\obj\Debug\A006_CS200.pdb

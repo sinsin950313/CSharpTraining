@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\bin\Debug\A033_ConstAndReadonly.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\bin\Debug\A033_ConstAndReadonly.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\bin\Debug\A033_ConstAndReadonly.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.pdb

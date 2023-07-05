@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\bin\Debug\A025_StringMethods.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\bin\Debug\A025_StringMethods.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\bin\Debug\A025_StringMethods.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\obj\Debug\A025_StringMethods.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A025_StringMethods\obj\Debug\A025_StringMethods.pdb

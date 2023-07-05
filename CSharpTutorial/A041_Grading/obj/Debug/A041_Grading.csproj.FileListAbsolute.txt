@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\bin\Debug\A041_Grading.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\bin\Debug\A041_Grading.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\bin\Debug\A041_Grading.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\obj\Debug\A041_Grading.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\obj\Debug\A041_Grading.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\obj\Debug\A041_Grading.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\obj\Debug\A041_Grading.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A041_Grading\obj\Debug\A041_Grading.pdb

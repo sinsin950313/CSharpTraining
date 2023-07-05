@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.pdb

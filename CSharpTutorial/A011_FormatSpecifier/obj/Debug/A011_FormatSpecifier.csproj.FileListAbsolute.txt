@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.pdb

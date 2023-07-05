@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\bin\Debug\A024_CompoundAssignment.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\bin\Debug\A024_CompoundAssignment.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\bin\Debug\A024_CompoundAssignment.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.pdb

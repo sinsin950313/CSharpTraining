@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\bin\Debug\A034_ValueAndReference.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\bin\Debug\A034_ValueAndReference.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\bin\Debug\A034_ValueAndReference.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.pdb

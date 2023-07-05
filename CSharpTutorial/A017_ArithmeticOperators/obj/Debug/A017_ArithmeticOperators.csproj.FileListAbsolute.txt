@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\bin\Debug\A017_ArithmeticOperators.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\bin\Debug\A017_ArithmeticOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\bin\Debug\A017_ArithmeticOperators.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.pdb

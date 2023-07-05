@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\bin\Debug\A014_StringToNumber.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\bin\Debug\A014_StringToNumber.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\bin\Debug\A014_StringToNumber.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\obj\Debug\A014_StringToNumber.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\obj\Debug\A014_StringToNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\obj\Debug\A014_StringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\obj\Debug\A014_StringToNumber.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A014_StringToNumber\obj\Debug\A014_StringToNumber.pdb

@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\bin\Debug\A028_StringContains.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\bin\Debug\A028_StringContains.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\bin\Debug\A028_StringContains.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\obj\Debug\A028_StringContains.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\obj\Debug\A028_StringContains.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\obj\Debug\A028_StringContains.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\obj\Debug\A028_StringContains.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A028_StringContains\obj\Debug\A028_StringContains.pdb

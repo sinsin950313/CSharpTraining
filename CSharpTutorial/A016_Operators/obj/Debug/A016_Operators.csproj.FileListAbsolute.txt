@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\bin\Debug\A016_Operators.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\bin\Debug\A016_Operators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\bin\Debug\A016_Operators.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\obj\Debug\A016_Operators.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\obj\Debug\A016_Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\obj\Debug\A016_Operators.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\obj\Debug\A016_Operators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A016_Operators\obj\Debug\A016_Operators.pdb

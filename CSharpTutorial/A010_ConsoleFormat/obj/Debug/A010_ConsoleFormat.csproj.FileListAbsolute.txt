@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.pdb

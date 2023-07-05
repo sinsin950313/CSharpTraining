@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\bin\Debug\A20_RelationalOperators.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\bin\Debug\A20_RelationalOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\bin\Debug\A20_RelationalOperators.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\obj\Debug\A20_RelationalOperators.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\obj\Debug\A20_RelationalOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\obj\Debug\A20_RelationalOperators.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\obj\Debug\A20_RelationalOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A20_RelationalOperators\obj\Debug\A20_RelationalOperators.pdb

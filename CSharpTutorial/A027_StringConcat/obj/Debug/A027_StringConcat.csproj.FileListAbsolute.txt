@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\bin\Debug\A027_StringConcat.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\bin\Debug\A027_StringConcat.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\bin\Debug\A027_StringConcat.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\obj\Debug\A027_StringConcat.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A027_StringConcat\obj\Debug\A027_StringConcat.pdb

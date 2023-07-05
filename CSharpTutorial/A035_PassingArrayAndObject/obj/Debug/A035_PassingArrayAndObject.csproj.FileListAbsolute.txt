@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.pdb

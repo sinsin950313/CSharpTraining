@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\bin\Debug\A008_ConsoleWriteMulti.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\bin\Debug\A008_ConsoleWriteMulti.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\bin\Debug\A008_ConsoleWriteMulti.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.pdb

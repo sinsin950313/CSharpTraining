@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\bin\Debug\A004_Variable.exe.config
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\bin\Debug\A004_Variable.exe
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\bin\Debug\A004_Variable.pdb
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\obj\Debug\A004_Variable.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\obj\Debug\A004_Variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\obj\Debug\A004_Variable.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\obj\Debug\A004_Variable.exe
+C:\Users\sinsi\Desktop\cs\A004_Variable\A004_Variable\obj\Debug\A004_Variable.pdb

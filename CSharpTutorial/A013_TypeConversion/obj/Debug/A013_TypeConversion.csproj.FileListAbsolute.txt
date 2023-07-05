@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\bin\Debug\A013_TypeConversion.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\bin\Debug\A013_TypeConversion.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\bin\Debug\A013_TypeConversion.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\obj\Debug\A013_TypeConversion.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\obj\Debug\A013_TypeConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\obj\Debug\A013_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\obj\Debug\A013_TypeConversion.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A013_TypeConversion\obj\Debug\A013_TypeConversion.pdb

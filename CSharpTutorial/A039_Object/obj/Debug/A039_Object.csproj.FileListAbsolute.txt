@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\bin\Debug\A039_Object.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\bin\Debug\A039_Object.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\bin\Debug\A039_Object.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\obj\Debug\A039_Object.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\obj\Debug\A039_Object.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\obj\Debug\A039_Object.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\obj\Debug\A039_Object.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A039_Object\obj\Debug\A039_Object.pdb

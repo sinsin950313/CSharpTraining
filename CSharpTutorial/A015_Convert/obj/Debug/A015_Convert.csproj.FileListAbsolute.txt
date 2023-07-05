@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\bin\Debug\A015_Convert.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\bin\Debug\A015_Convert.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\bin\Debug\A015_Convert.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\obj\Debug\A015_Convert.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\obj\Debug\A015_Convert.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\obj\Debug\A015_Convert.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\obj\Debug\A015_Convert.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A015_Convert\obj\Debug\A015_Convert.pdb

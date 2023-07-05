@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\bin\Debug\A002_HelloWorld.exe.config
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\bin\Debug\A002_HelloWorld.exe
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\bin\Debug\A002_HelloWorld.pdb
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.exe
+C:\Users\sinsi\Desktop\cs\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.pdb

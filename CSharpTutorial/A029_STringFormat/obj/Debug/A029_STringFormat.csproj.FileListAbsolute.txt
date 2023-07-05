@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\bin\Debug\A029_STringFormat.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\bin\Debug\A029_STringFormat.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\bin\Debug\A029_STringFormat.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\obj\Debug\A029_STringFormat.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\obj\Debug\A029_STringFormat.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\obj\Debug\A029_STringFormat.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\obj\Debug\A029_STringFormat.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A029_STringFormat\obj\Debug\A029_STringFormat.pdb

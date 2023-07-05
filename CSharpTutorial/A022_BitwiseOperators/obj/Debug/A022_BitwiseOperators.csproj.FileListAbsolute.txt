@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\bin\Debug\A022_BitwiseOperators.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\bin\Debug\A022_BitwiseOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\bin\Debug\A022_BitwiseOperators.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.pdb
