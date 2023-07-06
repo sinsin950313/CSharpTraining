@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\bin\Debug\A086_TimeSpan.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\bin\Debug\A086_TimeSpan.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\bin\Debug\A086_TimeSpan.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\obj\Debug\A086_TimeSpan.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A086_TimeSpan\obj\Debug\A086_TimeSpan.pdb

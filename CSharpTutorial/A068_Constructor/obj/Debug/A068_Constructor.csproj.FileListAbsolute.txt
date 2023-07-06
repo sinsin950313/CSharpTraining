@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\bin\Debug\A068_Constructor.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\bin\Debug\A068_Constructor.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\bin\Debug\A068_Constructor.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\obj\Debug\A068_Constructor.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\obj\Debug\A068_Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\obj\Debug\A068_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\obj\Debug\A068_Constructor.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A068_Constructor\obj\Debug\A068_Constructor.pdb

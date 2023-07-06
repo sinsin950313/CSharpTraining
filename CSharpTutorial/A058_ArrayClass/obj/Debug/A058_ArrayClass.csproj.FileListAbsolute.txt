@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\bin\Debug\A058_ArrayClass.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\bin\Debug\A058_ArrayClass.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\bin\Debug\A058_ArrayClass.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\obj\Debug\A058_ArrayClass.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\obj\Debug\A058_ArrayClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\obj\Debug\A058_ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\obj\Debug\A058_ArrayClass.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A058_ArrayClass\obj\Debug\A058_ArrayClass.pdb

@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\bin\Debug\A085_DateTime.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\bin\Debug\A085_DateTime.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\bin\Debug\A085_DateTime.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\obj\Debug\A085_DateTime.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\obj\Debug\A085_DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\obj\Debug\A085_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\obj\Debug\A085_DateTime.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A085_DateTime\obj\Debug\A085_DateTime.pdb

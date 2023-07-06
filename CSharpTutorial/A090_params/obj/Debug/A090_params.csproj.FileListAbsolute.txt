@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\bin\Debug\A090_params.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\bin\Debug\A090_params.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\bin\Debug\A090_params.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\obj\Debug\A090_params.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\obj\Debug\A090_params.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\obj\Debug\A090_params.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\obj\Debug\A090_params.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A090_params\obj\Debug\A090_params.pdb

@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\bin\Debug\A069_Property.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\bin\Debug\A069_Property.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\bin\Debug\A069_Property.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\obj\Debug\A069_Property.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\obj\Debug\A069_Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\obj\Debug\A069_Property.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\obj\Debug\A069_Property.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A069_Property\obj\Debug\A069_Property.pdb

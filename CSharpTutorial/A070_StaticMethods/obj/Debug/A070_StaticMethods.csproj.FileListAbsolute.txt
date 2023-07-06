@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\bin\Debug\A070_StaticMethods.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\bin\Debug\A070_StaticMethods.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\bin\Debug\A070_StaticMethods.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\obj\Debug\A070_StaticMethods.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\obj\Debug\A070_StaticMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\obj\Debug\A070_StaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\obj\Debug\A070_StaticMethods.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A070_StaticMethods\obj\Debug\A070_StaticMethods.pdb

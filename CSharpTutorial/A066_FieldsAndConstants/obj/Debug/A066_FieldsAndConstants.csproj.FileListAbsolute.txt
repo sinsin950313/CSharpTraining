@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\bin\Debug\A066_FieldsAndConstants.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\bin\Debug\A066_FieldsAndConstants.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\bin\Debug\A066_FieldsAndConstants.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.pdb

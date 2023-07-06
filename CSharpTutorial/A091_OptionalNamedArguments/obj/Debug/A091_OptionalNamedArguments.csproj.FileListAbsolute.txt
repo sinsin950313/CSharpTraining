@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.pdb

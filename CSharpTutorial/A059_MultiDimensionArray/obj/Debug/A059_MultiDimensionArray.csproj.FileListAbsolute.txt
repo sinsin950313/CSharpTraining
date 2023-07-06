@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.pdb

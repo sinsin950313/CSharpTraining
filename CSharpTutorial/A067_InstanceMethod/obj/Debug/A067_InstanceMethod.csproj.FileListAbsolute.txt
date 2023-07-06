@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\bin\Debug\A067_InstanceMethod.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\bin\Debug\A067_InstanceMethod.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\bin\Debug\A067_InstanceMethod.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.pdb
