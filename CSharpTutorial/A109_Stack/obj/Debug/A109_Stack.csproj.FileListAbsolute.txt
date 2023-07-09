@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\bin\Debug\A109_Stack.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\bin\Debug\A109_Stack.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\bin\Debug\A109_Stack.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\obj\Debug\A109_Stack.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\obj\Debug\A109_Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\obj\Debug\A109_Stack.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\obj\Debug\A109_Stack.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A109_Stack\obj\Debug\A109_Stack.pdb

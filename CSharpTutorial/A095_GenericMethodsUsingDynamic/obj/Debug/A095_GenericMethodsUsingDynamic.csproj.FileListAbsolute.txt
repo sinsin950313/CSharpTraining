@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\bin\Debug\A095_GenericMethodsUsingDynamic.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\bin\Debug\A095_GenericMethodsUsingDynamic.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\bin\Debug\A095_GenericMethodsUsingDynamic.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.pdb

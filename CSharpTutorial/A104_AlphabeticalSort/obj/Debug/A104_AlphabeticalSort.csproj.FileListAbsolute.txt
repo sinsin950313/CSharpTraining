@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\bin\Debug\A104_AlphabeticalSort.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\bin\Debug\A104_AlphabeticalSort.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\bin\Debug\A104_AlphabeticalSort.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.pdb

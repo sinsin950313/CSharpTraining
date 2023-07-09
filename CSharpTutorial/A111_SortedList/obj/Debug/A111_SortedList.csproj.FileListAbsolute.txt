@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\bin\Debug\A111_SortedList.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\bin\Debug\A111_SortedList.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\bin\Debug\A111_SortedList.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\obj\Debug\A111_SortedList.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\obj\Debug\A111_SortedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\obj\Debug\A111_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\obj\Debug\A111_SortedList.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A111_SortedList\obj\Debug\A111_SortedList.pdb

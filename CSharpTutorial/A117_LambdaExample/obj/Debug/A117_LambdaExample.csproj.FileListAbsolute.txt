@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\obj\Debug\A117_LambdaExample.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\obj\Debug\A117_LambdaExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\obj\Debug\A117_LambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\bin\Debug\A117_LambdaExample.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\bin\Debug\A117_LambdaExample.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\bin\Debug\A117_LambdaExample.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\obj\Debug\A117_LambdaExample.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A117_LambdaExample\obj\Debug\A117_LambdaExample.pdb

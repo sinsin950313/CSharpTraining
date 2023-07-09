@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\bin\Debug\A121_LinqBasic2.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\bin\Debug\A121_LinqBasic2.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\bin\Debug\A121_LinqBasic2.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.pdb

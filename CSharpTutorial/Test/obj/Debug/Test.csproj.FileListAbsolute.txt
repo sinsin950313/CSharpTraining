@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\bin\Debug\Test.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\bin\Debug\Test.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\bin\Debug\Test.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\obj\Debug\Test.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\Test\obj\Debug\Test.pdb

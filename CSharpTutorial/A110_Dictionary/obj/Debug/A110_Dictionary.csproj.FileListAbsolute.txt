@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\bin\Debug\A110_Dictionary.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\bin\Debug\A110_Dictionary.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\bin\Debug\A110_Dictionary.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\obj\Debug\A110_Dictionary.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\obj\Debug\A110_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\obj\Debug\A110_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\obj\Debug\A110_Dictionary.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A110_Dictionary\obj\Debug\A110_Dictionary.pdb

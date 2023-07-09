@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\bin\Debug\A093_GenericMethod.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\bin\Debug\A093_GenericMethod.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\bin\Debug\A093_GenericMethod.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\obj\Debug\A093_GenericMethod.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A093_GenericMethod\obj\Debug\A093_GenericMethod.pdb

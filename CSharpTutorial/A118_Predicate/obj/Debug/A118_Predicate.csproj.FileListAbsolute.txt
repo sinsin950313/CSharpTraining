@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\bin\Debug\A118_Predicate.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\bin\Debug\A118_Predicate.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\bin\Debug\A118_Predicate.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\obj\Debug\A118_Predicate.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\obj\Debug\A118_Predicate.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\obj\Debug\A118_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\obj\Debug\A118_Predicate.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A118_Predicate\obj\Debug\A118_Predicate.pdb

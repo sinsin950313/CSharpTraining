@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\bin\Debug\A094_GenericClass.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\bin\Debug\A094_GenericClass.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\bin\Debug\A094_GenericClass.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\obj\Debug\A094_GenericClass.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\obj\Debug\A094_GenericClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\obj\Debug\A094_GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\obj\Debug\A094_GenericClass.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A094_GenericClass\obj\Debug\A094_GenericClass.pdb

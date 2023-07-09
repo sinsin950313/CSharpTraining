@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.pdb

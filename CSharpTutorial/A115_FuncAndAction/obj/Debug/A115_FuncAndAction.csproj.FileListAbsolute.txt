@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.pdb

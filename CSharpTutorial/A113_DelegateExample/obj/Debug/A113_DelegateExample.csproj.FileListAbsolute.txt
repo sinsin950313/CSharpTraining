@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\bin\Debug\A113_DelegateExample.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\bin\Debug\A113_DelegateExample.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\bin\Debug\A113_DelegateExample.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\obj\Debug\A113_DelegateExample.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\obj\Debug\A113_DelegateExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\obj\Debug\A113_DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\obj\Debug\A113_DelegateExample.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A113_DelegateExample\obj\Debug\A113_DelegateExample.pdb

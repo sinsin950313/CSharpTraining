@@ -1,0 +1,8 @@
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.exe.config
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.pdb
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.csproj.AssemblyReference.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.exe
+C:\Users\sinsi\Desktop\cs\CSharpTutorial\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.pdb
